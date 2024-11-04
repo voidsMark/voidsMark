@@ -1,7 +1,7 @@
 
 
 <p align="center" >
-  <h1>Hi there, I'm Mark S. 👋</h1>
+  <h1>Hi there, I'm Mark 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-stack+Developer;Passionate+about+Vue.js+%26+Go;Always+Learning+New+Things">
 </p>
 
