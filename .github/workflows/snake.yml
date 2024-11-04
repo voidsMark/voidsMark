@@ -9,17 +9,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout GitHub Repository
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v2.2.1
         with:
           github_user_name: voidsMark
-      - name: Commit and Push changes
-        uses: CrazyMax/ghaction-github-pages@v3
+
+      - name: Commit and Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: .  # Assuming the snake.svg is generated in the root directory
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
