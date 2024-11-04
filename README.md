@@ -10,7 +10,10 @@
   <a href="https://github.com/voidsMark">
     <img src="https://img.shields.io/github/followers/voidsMark?style=social" alt="GitHub Followers" />
   </a>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=voidsMark.voidsMark" alt="Profile Visitors" />
+  
+  <a href="https://github.com/voidsMark">
+    <img src="https://komarev.com/ghpvc/?username=voidsMark&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
 I'm a full-stack developer mainly working with **Vue.js**. I have experience with a variety of technologies and enjoy exploring new tools and frameworks.
