@@ -14,7 +14,7 @@ I'm a full-stack developer mainly working with **Vue.js**. I have experience wit
 
 ## 🚀 Current Projects
 
-- 🔭 Working on an **IA Sefie Startup**.
+- 🔭 Working on an **AI Sefie Startup**.
 
 ## 🛠 Skills and Technologies
 
