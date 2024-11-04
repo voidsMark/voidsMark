@@ -51,3 +51,7 @@ I'm a full-stack developer mainly working with **Vue.js**. I have experience wit
 ## 💡 Fun Fact
 
 - When I'm not coding, you can find me exploring new countries or tweaking audio tracks.
+
+## 🐍 GitHub Contribution Snake
+
+![GitHub Snake Animation](https://github.com/voidsMark/voidsMark/raw/output/snake.svg)
