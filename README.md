@@ -8,11 +8,11 @@
 
 <p align="center">
   <a href="https://github.com/voidsMark">
-    <img src="https://img.shields.io/github/followers/voidsMark?style=social" alt="GitHub Followers" />
+    <img src="https://komarev.com/ghpvc/?username=voidsMark&style=flat" alt="GitHub Followers" />
   </a>
   
   <a href="https://github.com/voidsMark">
-    <img src="https://komarev.com/ghpvc/?username=voidsMark&style=flat" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/voidsMark?style=flat" alt="GitHub Followers" />
   </a>
 </p>
 
