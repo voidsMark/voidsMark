@@ -20,7 +20,7 @@ I'm a full-stack developer mainly working with **Vue.js**. I have experience wit
 
 ## 🚀 Current Projects
 
-- 🔭 Working on an **AI Selfie Startup**.
+- 🎥 Working on an **AI Selfie Startup**.
 
 ## 🛠 Skills and Technologies
 
