@@ -7,9 +7,9 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/voidsMark">
+<!--   <a href="https://github.com/voidsMark">
     <img src="https://img.shields.io/github/followers/voidsMark?style=flat" alt="GitHub Followers" />
-  </a>
+  </a> -->
 
   <a href="https://github.com/voidsMark">
     <img src="https://komarev.com/ghpvc/?username=voidsMark&style=flat" alt="GitHub Followers" />
