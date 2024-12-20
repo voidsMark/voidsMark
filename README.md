@@ -6,15 +6,15 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <a href="https://github.com/voidsMark">
     <img src="https://img.shields.io/github/followers/voidsMark?style=flat" alt="GitHub Followers" />
   </a> -->
 
-  <a href="https://github.com/voidsMark">
+ <!-- <a href="https://github.com/voidsMark">
     <img src="https://komarev.com/ghpvc/?username=voidsMark&style=flat" alt="GitHub Followers" />
   </a>
-</p>
+</p> -->
 
 I'm a full-stack developer mainly working with **Vue.js**. I have experience with a variety of technologies and enjoy exploring new tools and frameworks.
 
